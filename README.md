@@ -1,9 +1,9 @@
-#Blinkit: A Comprehensive Analysis
+# Blinkit: A Comprehensive Analysis
 
-##Project Overview:
+## Project Overview:
 In this Power BI project, I conducted a detailed sales analysis for Blinkit, focusing on various metrics to uncover sales trends across multiple dimensions.
 
-##Key Analyses:
+## Key Analyses:
 1) Total Sales by Fat Content: (Donut Chart)
    Analyzed total sales categorized by fat content to identify product preference trends.
 2) Total Sales by Item Type: (Bar Chart)
