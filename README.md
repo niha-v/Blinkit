@@ -40,7 +40,7 @@ Sales in perspectivly
 - Grocery Store Sales Focus: Although grocery stores are not the top-performing outlet type, they still contribute significantly with $151.94K in total sales.
 
   ## Insights
-- To increase revenue from grocery stores, consider strategies like:
+To increase revenue from grocery stores, consider strategies like:
 - Expanding Product Variety: Adding more high-demand items like fruits, vegetables, and snack foods.
 - Localized Promotions: Offering discounts or loyalty rewards specifically in areas where grocery store outlets are located, especially in Tier 3 regions.
 - Enhanced Visibility: Improving in-store and online product displays to increase item visibility, especially for top-selling categories.
