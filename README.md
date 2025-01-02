@@ -9,8 +9,8 @@ This Power BI dashboard provides an in-depth analysis of Blinkit's sales perform
 
 The Primary objective of this project is to analyze Blinkit Grocery Data, to determine the following:
 
-1) Total Sales by Fat Content: (Donut Chart)\n
-    Analyzed total sales categorized by fat content to identify product preference trends.
+1) Total Sales by Fat Content: (Donut Chart)
+    Analyzed total sales categorized by fat content to identify product preference trends. \n
 2) Total Sales by Item Type: (Bar Chart)\n
     Assessed sales performance across different item types.
 3) Fat Content by Outlet for Total Sales: (Stacked Chart)
