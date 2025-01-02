@@ -2,7 +2,7 @@
 
 Blinkit is an Indian quick-commerce and online grocery delivery service that aims to provide essentials to customers within minutes. Formerly known as Grofers, Blinkit rebranded in 2021 to focus on rapid delivery, leveraging a network of local dark stores and warehouses in high-demand areas. With a mobile-friendly platform, it offers a wide range of products, including groceries, household items and personal care essentials, catering to urban customers' needs for convenience and quick access to daily necessities.
 
-## Project Overview:
+## 🌟 Project Overview:
 This Power BI dashboard provides an in-depth analysis of Blinkit's sales performance across various outlets, item types and regions. Key metrics such as total sales, average sales, number of items and average rating are prominently displayed, giving a snapshot of overall business performance. The dashboard also breaks down sales by outlet size, fat content and outlet type, enabling a detailed understanding of which product categories and outlet locations drive the highest sales. Visual trends in outlet establishment growth, item visibility and distribution of fat content in products help identify areas with potential for improvement or targeted sales initiatives.
 
 ## 📚 Objective:
@@ -10,7 +10,7 @@ This Power BI dashboard provides an in-depth analysis of Blinkit's sales perform
 The Primary objective of this project is to analyze Blinkit Grocery Data, to determine the following:
 
 1) Total Sales by Fat Content: (Donut Chart)
-    Analyzed total sales categorized by fat content to identify product preference trends. \n
+    Analyzed total sales categorized by fat content to identify product preference trends. 
 2) Total Sales by Item Type: (Bar Chart)\n
     Assessed sales performance across different item types.
 3) Fat Content by Outlet for Total Sales: (Stacked Chart)
@@ -39,7 +39,7 @@ Sales in perspectivly
   
 - Grocery Store Sales Focus: Although grocery stores are not the top-performing outlet type, they still contribute significantly with $151.94K in total sales.
 
-## Insights
+## 🦄 Insights
 To increase revenue from grocery stores, consider strategies like:
 - Expanding Product Variety: Adding more high-demand items like fruits, vegetables, and snack foods.
 - Localized Promotions: Offering discounts or loyalty rewards specifically in areas where grocery store outlets are located, especially in Tier 3 regions.
